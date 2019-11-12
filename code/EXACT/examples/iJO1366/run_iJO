@@ -1,0 +1,3 @@
+Example : compute the projection onto acetate-biomass (reaction indices 6,35) of genome scale metabolic model of E.coli (iJO1366):
+# run
+chm -d 6 35 -o iJO.out iJO

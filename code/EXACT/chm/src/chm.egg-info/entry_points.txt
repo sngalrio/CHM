@@ -1,0 +1,3 @@
+[console_scripts]
+chm = main:main
+

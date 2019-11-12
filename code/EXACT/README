@@ -1,0 +1,2 @@
+Exact implementation of the convex hull algorithm.
+The values of the domain must be integers (scale the values and stoichiometric matrix accordingly if necessary).

@@ -1,0 +1,7 @@
+README.rst
+src/main.py
+src/chm.egg-info/PKG-INFO
+src/chm.egg-info/SOURCES.txt
+src/chm.egg-info/dependency_links.txt
+src/chm.egg-info/entry_points.txt
+src/chm.egg-info/top_level.txt
